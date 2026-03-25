@@ -1,1 +1,2 @@
+Original line in master
 Different line in clone
